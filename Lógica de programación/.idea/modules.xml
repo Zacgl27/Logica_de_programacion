@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects/ApuntesLogica/ApuntesLogica.iml" filepath="$PROJECT_DIR$/NetBeansProjects/ApuntesLogica/ApuntesLogica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pepito/NetBeansProjects/ApuntesLogica/ApuntesLogica1.iml" filepath="$PROJECT_DIR$/Pepito/NetBeansProjects/ApuntesLogica/ApuntesLogica1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackendJava1/BackendJava1.iml" filepath="$PROJECT_DIR$/BackendJava1/BackendJava1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesarrolloClaseMoviles/DesarrolloClaseMoviles.iml" filepath="$PROJECT_DIR$/DesarrolloClaseMoviles/DesarrolloClaseMoviles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lógica de programación.iml" filepath="$PROJECT_DIR$/.idea/Lógica de programación.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pepito/NetBeansProjects/Práctica1/Práctica1.iml" filepath="$PROJECT_DIR$/Pepito/NetBeansProjects/Práctica1/Práctica1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects/Práctica1/Práctica11.iml" filepath="$PROJECT_DIR$/NetBeansProjects/Práctica1/Práctica11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pepito/NetBeansProjects/Práctica2/Práctica2.iml" filepath="$PROJECT_DIR$/Pepito/NetBeansProjects/Práctica2/Práctica2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects/Práctica2/Práctica21.iml" filepath="$PROJECT_DIR$/NetBeansProjects/Práctica2/Práctica21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetBeansProjects/TalleresLogica/TalleresLogica.iml" filepath="$PROJECT_DIR$/NetBeansProjects/TalleresLogica/TalleresLogica.iml" />
+    </modules>
+  </component>
+</project>
